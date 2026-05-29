@@ -1,0 +1,24 @@
+# Obsidian Vault - Git Ignore
+# ================================
+
+# Obsidian 配置目录（包含插件配置，可能含隐私信息）
+.obsidian/
+
+# Claude / Claudian 内部文件
+.claude/
+.claudian/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.log
+
+# 本地附件库（如有）
+# attachments/
+
+# 敏感文件（包含 API Key 等）
+*.env
+secrets.json
