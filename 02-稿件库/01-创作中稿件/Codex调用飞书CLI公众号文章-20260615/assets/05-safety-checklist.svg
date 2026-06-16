@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#f6f8fb"/>
+  <text x="72" y="92" font-family="Arial, 'PingFang SC', sans-serif" font-size="44" font-weight="700" fill="#172033">让 Codex 写入飞书前，先检查这 4 件事</text>
+  <g font-family="Arial, 'PingFang SC', sans-serif">
+    <g transform="translate(88 155)">
+      <rect width="1024" height="92" rx="16" fill="#ffffff" stroke="#d9e2ef"/>
+      <circle cx="48" cy="46" r="24" fill="#2f80ed"/>
+      <text x="40" y="56" font-size="28" font-weight="700" fill="#fff">1</text>
+      <text x="92" y="56" font-size="28" font-weight="700" fill="#172033">它要动的是哪篇文档？</text>
+      <text x="500" y="56" font-size="24" fill="#516072">先 inspect，确认标题和类型</text>
+    </g>
+    <g transform="translate(88 280)">
+      <rect width="1024" height="92" rx="16" fill="#ffffff" stroke="#d9e2ef"/>
+      <circle cx="48" cy="46" r="24" fill="#f2994a"/>
+      <text x="40" y="56" font-size="28" font-weight="700" fill="#fff">2</text>
+      <text x="92" y="56" font-size="28" font-weight="700" fill="#172033">它是追加、覆盖，还是删除？</text>
+      <text x="560" y="56" font-size="24" fill="#516072">写入动作必须说清楚</text>
+    </g>
+    <g transform="translate(88 405)">
+      <rect width="1024" height="92" rx="16" fill="#ffffff" stroke="#d9e2ef"/>
+      <circle cx="48" cy="46" r="24" fill="#00b96b"/>
+      <text x="40" y="56" font-size="28" font-weight="700" fill="#fff">3</text>
+      <text x="92" y="56" font-size="28" font-weight="700" fill="#172033">有没有 dry-run 或备份？</text>
+      <text x="500" y="56" font-size="24" fill="#516072">重要资料不要直接覆盖</text>
+    </g>
+    <g transform="translate(88 530)">
+      <rect width="1024" height="92" rx="16" fill="#ffffff" stroke="#d9e2ef"/>
+      <circle cx="48" cy="46" r="24" fill="#eb5757"/>
+      <text x="40" y="56" font-size="28" font-weight="700" fill="#fff">4</text>
+      <text x="92" y="56" font-size="28" font-weight="700" fill="#172033">出错后能不能恢复？</text>
+      <text x="500" y="56" font-size="24" fill="#516072">先小范围试，再扩大范围</text>
+    </g>
+  </g>
+  <rect x="88" y="650" width="1024" height="42" rx="12" fill="#172033"/>
+  <text x="335" y="678" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" fill="#ffffff">边界越清楚，AI 越好用</text>
+</svg>
+

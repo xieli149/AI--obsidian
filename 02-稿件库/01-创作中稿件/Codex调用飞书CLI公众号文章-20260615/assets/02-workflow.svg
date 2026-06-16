@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#ffffff"/>
+  <text x="72" y="92" font-family="Arial, 'PingFang SC', sans-serif" font-size="44" font-weight="700" fill="#172033">一句话到飞书结果，中间发生了什么？</text>
+  <g font-family="Arial, 'PingFang SC', sans-serif">
+    <g transform="translate(72 170)">
+      <rect width="190" height="150" rx="16" fill="#f1f5f9" stroke="#cbd5e1"/>
+      <text x="36" y="56" font-size="28" font-weight="700" fill="#172033">你的目标</text>
+      <text x="28" y="102" font-size="22" fill="#516072">读文档 / 搜资料</text>
+    </g>
+    <g transform="translate(312 170)">
+      <rect width="190" height="150" rx="16" fill="#eef7ff" stroke="#77b7e8"/>
+      <text x="38" y="56" font-size="28" font-weight="700" fill="#172033">Codex</text>
+      <text x="28" y="102" font-size="22" fill="#516072">判断该用哪个 skill</text>
+    </g>
+    <g transform="translate(552 170)">
+      <rect width="190" height="150" rx="16" fill="#fff7e9" stroke="#f2b85b"/>
+      <text x="32" y="56" font-size="28" font-weight="700" fill="#172033">读规则</text>
+      <text x="30" y="102" font-size="22" fill="#516072">skills read lark-doc</text>
+    </g>
+    <g transform="translate(792 170)">
+      <rect width="190" height="150" rx="16" fill="#f8f0ff" stroke="#b98cff"/>
+      <text x="32" y="56" font-size="28" font-weight="700" fill="#172033">跑命令</text>
+      <text x="38" y="102" font-size="22" fill="#516072">docs / drive</text>
+    </g>
+    <g transform="translate(552 430)">
+      <rect width="190" height="150" rx="16" fill="#eefbf4" stroke="#63c58a"/>
+      <text x="32" y="56" font-size="28" font-weight="700" fill="#172033">飞书返回</text>
+      <text x="30" y="102" font-size="22" fill="#516072">文档 / 搜索结果</text>
+    </g>
+    <g transform="translate(312 430)">
+      <rect width="190" height="150" rx="16" fill="#fff2f2" stroke="#f28b82"/>
+      <text x="32" y="56" font-size="28" font-weight="700" fill="#172033">整理输出</text>
+      <text x="30" y="102" font-size="22" fill="#516072">大纲 / 清单 / 稿件</text>
+    </g>
+  </g>
+  <g stroke="#8aa0b8" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M272 245 H302"/>
+    <path d="M292 233 L306 245 L292 257"/>
+    <path d="M512 245 H542"/>
+    <path d="M532 233 L546 245 L532 257"/>
+    <path d="M752 245 H782"/>
+    <path d="M772 233 L786 245 L772 257"/>
+    <path d="M887 330 C887 400 785 505 754 505"/>
+    <path d="M766 492 L750 505 L766 518"/>
+    <path d="M542 505 H512"/>
+    <path d="M522 493 L508 505 L522 517"/>
+  </g>
+  <rect x="792" y="430" width="300" height="150" rx="18" fill="#172033"/>
+  <text x="830" y="488" font-family="Arial, 'PingFang SC', sans-serif" font-size="25" fill="#ffffff">关键不是“背命令”</text>
+  <text x="830" y="535" font-family="Arial, 'PingFang SC', sans-serif" font-size="25" fill="#ffffff">而是让 Codex 先读规则</text>
+</svg>
+

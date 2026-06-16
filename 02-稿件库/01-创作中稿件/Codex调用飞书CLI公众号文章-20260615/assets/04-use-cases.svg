@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#ffffff"/>
+  <text x="72" y="92" font-family="Arial, 'PingFang SC', sans-serif" font-size="44" font-weight="700" fill="#172033">运营人最适合先跑的 3 个场景</text>
+  <g font-family="Arial, 'PingFang SC', sans-serif">
+    <g transform="translate(72 160)">
+      <rect width="320" height="390" rx="18" fill="#eef7ff" stroke="#77b7e8"/>
+      <circle cx="64" cy="70" r="28" fill="#2f80ed"/>
+      <text x="54" y="80" font-size="28" font-weight="700" fill="#fff">1</text>
+      <text x="42" y="135" font-size="30" font-weight="700" fill="#172033">文档变大纲</text>
+      <text x="42" y="195" font-size="23" fill="#516072">飞书会议纪要</text>
+      <text x="42" y="235" font-size="23" fill="#516072">选题分析</text>
+      <text x="42" y="275" font-size="23" fill="#516072">公众号文章结构</text>
+      <rect x="42" y="315" width="236" height="42" rx="10" fill="#172033"/>
+      <text x="65" y="343" font-size="21" fill="#fff">docs +fetch</text>
+    </g>
+    <g transform="translate(440 160)">
+      <rect width="320" height="390" rx="18" fill="#fff7e9" stroke="#f2b85b"/>
+      <circle cx="64" cy="70" r="28" fill="#f2994a"/>
+      <text x="54" y="80" font-size="28" font-weight="700" fill="#fff">2</text>
+      <text x="42" y="135" font-size="30" font-weight="700" fill="#172033">历史资料找选题</text>
+      <text x="42" y="195" font-size="23" fill="#516072">按关键词搜索</text>
+      <text x="42" y="235" font-size="23" fill="#516072">筛出相关文档</text>
+      <text x="42" y="275" font-size="23" fill="#516072">整理选题池</text>
+      <rect x="42" y="315" width="236" height="42" rx="10" fill="#172033"/>
+      <text x="65" y="343" font-size="21" fill="#fff">drive +search</text>
+    </g>
+    <g transform="translate(808 160)">
+      <rect width="320" height="390" rx="18" fill="#eefbf4" stroke="#63c58a"/>
+      <circle cx="64" cy="70" r="28" fill="#00b96b"/>
+      <text x="54" y="80" font-size="28" font-weight="700" fill="#fff">3</text>
+      <text x="42" y="135" font-size="30" font-weight="700" fill="#172033">稿件素材归档</text>
+      <text x="42" y="195" font-size="23" fill="#516072">Obsidian 本地稿</text>
+      <text x="42" y="235" font-size="23" fill="#516072">图片和发布包</text>
+      <text x="42" y="275" font-size="23" fill="#516072">同步到飞书</text>
+      <rect x="42" y="315" width="236" height="42" rx="10" fill="#172033"/>
+      <text x="65" y="343" font-size="21" fill="#fff">drive +sync</text>
+    </g>
+  </g>
+  <text x="72" y="628" font-family="Arial, 'PingFang SC', sans-serif" font-size="28" fill="#516072">先跑真实任务，不要一开始就学完整 API。</text>
+</svg>
+

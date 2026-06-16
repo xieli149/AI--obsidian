@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780">
+  <rect width="1200" height="780" fill="#f6f8fb"/>
+  <text x="64" y="88" font-family="Arial, 'PingFang SC', sans-serif" font-size="44" font-weight="700" fill="#172033">5 个最常用的 lark-cli 命令</text>
+  <g font-family="Arial, 'PingFang SC', sans-serif">
+    <g transform="translate(64 140)">
+      <rect width="500" height="105" rx="16" fill="#ffffff" stroke="#d9e2ef"/>
+      <text x="28" y="42" font-size="26" font-weight="700" fill="#172033">检查环境</text>
+      <text x="28" y="78" font-size="24" fill="#2f80ed">lark-cli doctor</text>
+    </g>
+    <g transform="translate(636 140)">
+      <rect width="500" height="105" rx="16" fill="#ffffff" stroke="#d9e2ef"/>
+      <text x="28" y="42" font-size="26" font-weight="700" fill="#172033">查看登录</text>
+      <text x="28" y="78" font-size="24" fill="#2f80ed">lark-cli auth status</text>
+    </g>
+    <g transform="translate(64 295)">
+      <rect width="500" height="135" rx="16" fill="#ffffff" stroke="#d9e2ef"/>
+      <text x="28" y="42" font-size="26" font-weight="700" fill="#172033">读取文档</text>
+      <text x="28" y="80" font-size="22" fill="#2f80ed">lark-cli docs +fetch --api-version v2</text>
+      <text x="28" y="110" font-size="22" fill="#2f80ed">--doc "飞书文档链接"</text>
+    </g>
+    <g transform="translate(636 295)">
+      <rect width="500" height="135" rx="16" fill="#ffffff" stroke="#d9e2ef"/>
+      <text x="28" y="42" font-size="26" font-weight="700" fill="#172033">搜索资料</text>
+      <text x="28" y="80" font-size="22" fill="#2f80ed">lark-cli drive +search --as user</text>
+      <text x="28" y="110" font-size="22" fill="#2f80ed">--query "关键词"</text>
+    </g>
+    <g transform="translate(64 480)">
+      <rect width="500" height="135" rx="16" fill="#ffffff" stroke="#d9e2ef"/>
+      <text x="28" y="42" font-size="26" font-weight="700" fill="#172033">判断链接类型</text>
+      <text x="28" y="80" font-size="22" fill="#2f80ed">lark-cli drive +inspect</text>
+      <text x="28" y="110" font-size="22" fill="#2f80ed">--url "飞书链接"</text>
+    </g>
+    <g transform="translate(636 480)">
+      <rect width="500" height="135" rx="16" fill="#ffffff" stroke="#d9e2ef"/>
+      <text x="28" y="42" font-size="26" font-weight="700" fill="#172033">同步文件夹</text>
+      <text x="28" y="80" font-size="22" fill="#2f80ed">lark-cli drive +sync --local-dir "./素材库"</text>
+      <text x="28" y="110" font-size="22" fill="#2f80ed">--on-conflict keep-both</text>
+    </g>
+  </g>
+  <rect x="64" y="665" width="1072" height="58" rx="14" fill="#172033"/>
+  <text x="96" y="703" font-family="Arial, 'PingFang SC', sans-serif" font-size="25" fill="#ffffff">新手原则：只读命令先跑通，写入命令先 dry-run 或备份</text>
+</svg>
+
