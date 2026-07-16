@@ -12,6 +12,14 @@ source: AI热点精选
 link: https://x.com/rohanpaul_ai/status/2063246343842501091
 author: "Rohan Paul (@rohanpaul_ai)"
 feedTitle: AI热点精选
+tags:
+  - "内容阶段/选题"
+  - "内容载体/公众号"
+  - "内容类型/工具解读"
+  - "主题/AI编程"
+  - "主题/规范驱动开发"
+  - "工具/GitHub"
+  - "受众/开发者"
 ---
 
 # GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码
