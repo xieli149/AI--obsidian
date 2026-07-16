@@ -9,13 +9,12 @@ description:
 tags:
   - "clippings"
   - "内容阶段/历史文章"
-  - "内容载体/公众号"
   - "来源/历史发布"
-  - "内容类型/教程"
   - "主题/AI编程"
   - "主题/AI工具"
-  - "工具/Claude-Code"
-  - "受众/AI新手"
+相关概念:
+  - "[[wiki/concepts/AI编程|AI编程]]"
+  - "[[wiki/concepts/AI工具|AI工具]]"
 ---
 黎子 *2026年3月7日 07:57*
 

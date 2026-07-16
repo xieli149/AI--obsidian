@@ -9,13 +9,12 @@ description: "内容主要是在分享“Claude Code 之父”自己是怎么高
 tags:
   - "clippings"
   - "内容阶段/历史文章"
-  - "内容载体/公众号"
   - "来源/历史发布"
-  - "内容类型/案例"
   - "主题/AI编程"
-  - "主题/智能体工作流"
-  - "工具/Claude-Code"
-  - "受众/开发者"
+  - "主题/AI工具"
+相关概念:
+  - "[[wiki/concepts/AI编程|AI编程]]"
+  - "[[wiki/concepts/AI工具|AI工具]]"
 ---
 黎子ai *2026年1月4日 17:08*
 
